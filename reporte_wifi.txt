@@ -1,9 +1,0 @@
-Dispositivos en red 192.168.101.0/24
-192.168.101.10 - Smart-TV.bbrouter
-192.168.101.16 - 1ANALUMA.bbrouter
-192.168.101.1 - RTKGW.bbrouter
-192.168.101.26 - mirko.bbrouter
-192.168.101.20 - Redmi-Pad-2.bbrouter
-192.168.101.5 - Desconocido
-192.168.101.23 - Desconocido
-192.168.101.13 - Desconocido
