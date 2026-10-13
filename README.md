@@ -1,20 +1,18 @@
-# WiFi Scanner - Detector de Intrusos
+# Wifi-Scanner - Roldán Edition
 
-Mi primer proyecto de ciberseguridad. Un scanner en Python para auditar mi red doméstica y detectar dispositivos conectados.
+Mi primer auditor de red WiFi hecho en Python. Escanea redes, detecta seguridad y genera reportes.
 
-## 🚀 Qué hace
+## 🚀 Como usar
+python scanner.py
 
-- **v1 (scanner.py):** Escanea puertos abiertos en un objetivo.
-- **v3 (scanner_v3.py):** Escanea toda la red local (192.168.101.x) y detecta todos los dispositivos conectados, con nombre de host.
+## ✨ Features
+- Escaneo de redes WiFi cercanas
+- Detección de tipo de seguridad (WPA2, WPA3, Abierta)
+- Reporte de intensidad de señal
+- 100% Python - sin dependencias raras
 
-## 🛠️ Tecnologías
+## 👨‍💻 Autor
+Hecho en Roldán, Santa Fe por mirkoschi22-design
 
-- Python 3.14
-- socket, subprocess, threading
-- ARP / ICMP (ping)
-
-## 📋 Cómo usarlo
-
-```bash
-# Ejecutar como administrador para mejor detección
-python scanner_v3.py
+## 📜 Stack
+Python 3.x
