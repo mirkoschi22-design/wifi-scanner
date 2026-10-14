@@ -1,3 +1,9 @@
+"""
+SCANNER WiFi v3 - Detector de Intrusos
+Copyright (c) 2026 Mirko David Schiavi
+Licensed under MIT License
+https://github.com/mirkoschi22-design/scanner
+"""
 import socket
 import subprocess
 import ipaddress
